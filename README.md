@@ -2,7 +2,7 @@
 
 A compact **4-channel brushed DC motor driver board** based on the **TI DRV8871**, designed for controlling four independent DC motors with integrated reverse-polarity protection.
 
-![DRV8871 4-Channel Motor Driver](image.png)
+<img src="image/Front_img.png" alt="DRV8871 4-Channel Motor Driver" width="500">
 
 ## Features
 

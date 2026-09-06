@@ -11,9 +11,9 @@ A compact **4-channel brushed DC motor driver board** based on the **TI DRV8871*
 - **2 A continuous output current per channel**
 - **3.6 A peak output current per channel**
 - Reverse-polarity protection
+- Reverse polarity visual alert using ERR LED
 - Screw terminals for motor connections
 - 2.54 mm header pins for control signals
-- Compact PCB design
 - Suitable for microcontroller-based control
 
 ## Specifications
@@ -27,7 +27,7 @@ A compact **4-channel brushed DC motor driver board** based on the **TI DRV8871*
 | Peak Current | **3.6 A / Channel** |
 | Control Interface | 2.54 mm Header Pins |
 | Motor Connection | Screw Terminals |
-| Protection | Reverse-Polarity Protection |
+| Protection |PMOS Reverse-Polarity Protection |
 | PCB Revision | Rev 2.0 |
 
 ## Channel Configuration
@@ -47,9 +47,6 @@ Each channel is controlled independently through the DRV8871 motor-driver circui
 - Mobile robots
 - DC motor control
 - Automation systems
-- RC projects
-- Linear actuator control
-- Embedded motor-control systems
 - Educational and development projects
 
 ## Revision History
@@ -60,6 +57,7 @@ Each channel is controlled independently through the DRV8871 motor-driver circui
 
 - Basic 4-channel DRV8871 motor driver
 - 2.54 mm pins
+- No additional protection 
 - Four independent motor channels
 
 ### Rev 2.0

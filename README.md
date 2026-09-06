@@ -69,3 +69,13 @@ Each channel is controlled independently through the DRV8871 motor-driver circui
 - Improved ease of motor connection
 - Improved protection on the power input
 
+- ## License
+
+This hardware design is released under the **CERN Open Hardware Licence Version 2 – Permissive (CERN-OHL-P-2.0)**.
+
+You are free to use, study, modify, manufacture, and distribute hardware based on this design, subject to the terms and conditions of the licence.
+
+**Copyright © 2026 Abhisek Mahapatro**
+
+For the complete licence terms, see the [`LICENSE`](LICENSE) file.
+
